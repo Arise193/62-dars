@@ -45,11 +45,11 @@
 
 // person.setAge(10);
 
-// // console.log(person.age); // ❌ Runtime error
-// console.log(person.getAge()); // ✅ 10
+// // console.log(person.age); //  ❌ Runtime error
+// console.log(person.getAge()); //  ✅ 10
 
 // person.setAge(-10);
-// console.log(person.getAge()); // ✅ 0
+// console.log(person.getAge()); //  ✅ 0
 
 // class Engineer extends Person {
 //     public technologies: string[] = [];
